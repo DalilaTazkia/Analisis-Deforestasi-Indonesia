@@ -121,9 +121,3 @@ Dashboard ini diharapkan dapat menjadi **alat pendukung keputusan** bagi pemerin
 * **SDGs 15 – Life on Land**
 
 ---
-
-## 👤 Author
-**Asri Sabilla Putri**
-📊 Data Analyst | Sustainability & Digital Communication
-🔗 LinkedIn: https://www.linkedin.com/in/asrisabilla
-🌐 Portfolio: https://portofolio-asri.netlify.app/
