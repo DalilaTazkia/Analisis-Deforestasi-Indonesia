@@ -2,6 +2,8 @@
 
 **End-to-End Data Analysis & Visualization Project (SDGs-Focused)**
 
+Link sumber data : https://trase.earth/open-data/datasets/spatial-metrics-indonesia-territorial-deforestation
+
 ## 📌 Project Overview
 Project ini menganalisis **deforestasi di Indonesia periode 2001–2022** untuk memahami pola kehilangan tutupan hutan antar wilayah dan dampaknya terhadap lingkungan. Analisis dilakukan untuk mendukung **pengambilan keputusan berbasis data** dalam konteks keberlanjutan dan pembangunan berkelanjutan (**SDGs 13: Climate Action & SDGs 15: Life on Land**).
 
@@ -17,11 +19,10 @@ Hasil analisis divisualisasikan dalam **dashboard interaktif** untuk memudahkan 
 ## 🗂️ Repository Structure
 
 ```
-├── deforestation_indonesia.csv        # Dataset deforestasi Indonesia (2001–2022)
+├── spatial-metrics-indonesia-territorial_deforestation_province.csv        # Dataset deforestasi Indonesia (2001–2022)
 ├── deforestation_analysis.ipynb       # Data cleaning & analysis (Python)
-├── deforestation_dashboard.pbix       # Power BI interactive dashboard
-├── assets/
-│   └── dashboard_preview.png          # Dashboard image
+├── deforestation_FIX.pbix             # Power BI interactive dashboard
+├── dashboard-defores.png              # Dashboard image
 └── README.md
 ```
 ---
